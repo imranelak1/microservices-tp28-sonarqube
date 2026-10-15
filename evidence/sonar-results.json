@@ -1,0 +1,69 @@
+{
+  "capturedAt": "2026-10-15T00:59:36.762Z",
+  "gate": {
+    "projectStatus": {
+      "status": "OK",
+      "conditions": [],
+      "periods": [],
+      "ignoredConditions": false,
+      "caycStatus": "compliant"
+    }
+  },
+  "measures": {
+    "component": {
+      "key": "course7-tp28",
+      "name": "microservices-tp28-sonarqube",
+      "description": "Parent pom providing dependency and plugin management for applications built with Maven",
+      "qualifier": "TRK",
+      "measures": [
+        {
+          "metric": "coverage",
+          "value": "100.0",
+          "bestValue": true
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "0",
+          "bestValue": true
+        },
+        {
+          "metric": "bugs",
+          "value": "0",
+          "bestValue": true
+        },
+        {
+          "metric": "tests",
+          "value": "6"
+        },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        {
+          "metric": "ncloc",
+          "value": "26"
+        },
+        {
+          "metric": "code_smells",
+          "value": "0",
+          "bestValue": true
+        }
+      ]
+    }
+  },
+  "issues": {
+    "total": 0,
+    "p": 1,
+    "ps": 100,
+    "paging": {
+      "pageIndex": 1,
+      "pageSize": 100,
+      "total": 0
+    },
+    "effortTotal": 0,
+    "issues": [],
+    "components": [],
+    "facets": []
+  }
+}
